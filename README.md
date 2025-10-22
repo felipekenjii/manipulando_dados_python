@@ -30,7 +30,7 @@ O script `extracao_holerite.py` executa as seguintes etapas:
 
 ## 🧩 Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python**
 - **Bibliotecas**:
   - `pdfplumber` → leitura e extração de texto de PDFs  
   - `re` → uso de expressões regulares  
